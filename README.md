@@ -2,8 +2,9 @@
 
 This repository contains Jupyter notebooks and resources for the 2019 Perth Research Bazaar, Python stream.
 
-The lesson is adapted from the [Data Carpentry Ecology lesson](http://www.datacarpentry.org/python-ecology-lesson/) and the [CIC software captentry material](https://github.com/CurtinIC/cic-swc-material).
+The lesson is adapted from the [Data Carpentry Ecology lesson](http://www.datacarpentry.org/python-ecology-lesson/) and the [CIC software carpentry training material](https://github.com/CurtinIC/cic-swc-material).
 
+We'll be covering most of the content in the [Data Carpentry Ecology lesson](http://www.datacarpentry.org/python-ecology-lesson/), excluding the SQL and more advanced plotting content.
 
 ## Setup
 
