@@ -6,6 +6,13 @@ The lesson is adapted from the [Data Carpentry Ecology lesson](http://www.dataca
 
 We'll be covering most of the content in the [Data Carpentry Ecology lesson](http://www.datacarpentry.org/python-ecology-lesson/), excluding the SQL and more advanced plotting content.
 
+Additional Python learning resources for your future learning can be found at:
+- <http://swcarpentry.github.io/python-novice-inflammation/>
+- <http://swcarpentry.github.io/python-novice-gapminder/>
+- <https://docs.python.org/3/tutorial/index.html>  # Suggest you read this piecemeal as you need it.
+- <https://jakevdp.github.io/PythonDataScienceHandbook/>  # More complex but a good free resource for working with data.
+
+
 ## Setup
 
 Please try to install a bash terminal, Python 3, and the required packages before coming.
