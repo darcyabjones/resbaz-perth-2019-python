@@ -6,7 +6,8 @@ requirements = [
     "jupyter",
     "pandas",
     "numpy",
-    "matplotlib"
+    "matplotlib",
+    "seaborn"
 ]
 
 errors = []

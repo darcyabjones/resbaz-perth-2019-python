@@ -28,7 +28,7 @@ If you install the "miniconda" version, you'll also need to install the python p
 Open up Git Bash or your terminal and enter:
 
 ```bash
-conda install -y numpy pandas matplotlib jupyter
+conda install -y numpy pandas matplotlib seaborn jupyter
 ```
 
 
