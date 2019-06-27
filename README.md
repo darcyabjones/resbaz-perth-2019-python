@@ -48,6 +48,23 @@ If you don't have `git` installed, you can download a Zip archive of the reposit
 Note that you can find these urls yourself by clicking the green "Clone or download" button towards the top-right of the repository landing page.
 
 
+To check that all of the required packages are installed, open a terminal in the repository directory and run the following command:
+
+```bash
+python3 scripts/check_packages.py
+```
+
+Windows users _may_ need to enter ...
+
+```bash
+Python3 scripts/check_packages.py
+# or
+Python scripts/check_packages.py
+```
+
+If any warnings come up, talk to us!
+
+
 ## Get started
 
 You can start running the Jupyter notebook by opening Git Bash or your terminal and entering:
