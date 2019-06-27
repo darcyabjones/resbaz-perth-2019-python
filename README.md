@@ -24,6 +24,22 @@ conda install -y numpy pandas matplotlib jupyter
 ```
 
 
+## Download this repository!
+
+We'll be working from this notebook and filling in the answers as we go.
+To fetch the notebook and the example data we will be using you will need to download this repo.
+
+If you have `git` installed you can `clone` it from the terminal at the location that you want to store it...
+
+```bash
+git clone https://github.com/darcyabjones/resbaz-perth-2019-python.git
+```
+
+If you don't have `git` installed, you can download a Zip archive of the repository from <https://github.com/darcyabjones/resbaz-perth-2019-python/archive/master.zip> and unzip it wherever you want :).
+
+Note that you can find these urls yourself by clicking the green "Clone or download" button towards the top-right of the repository landing page.
+
+
 ## Get started
 
 You can start running the Jupyter notebook by opening Git Bash or your terminal and entering:
