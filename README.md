@@ -22,7 +22,13 @@ We'll have people to help you on the day.
 Instructions for installing a bash terminal are available at the [software carpentry shell lesson](http://swcarpentry.github.io/shell-novice/setup.html).
 Instructions for installing Python 3 using [Anaconda](https://www.anaconda.com/distribution/) are available at the [software carpentry python lesson](http://swcarpentry.github.io/python-novice-gapminder/setup/).
 
-The full anaconda installation already installs all of the packages we will use.
+**Windows users may need to perform a few extra steps to get Anaconda working with Git Bash.**
+By default the Windows Anaconda installer doesn't add Anaconda to your `PATH` variable. This `PATH` variable is like an "address book" that terminals can go to look for software they can use.
+[This article from DataCamp](https://www.datacamp.com/community/tutorials/installing-anaconda-windows) has a good tutorial for configuring the `PATH` variable and getting git bash to work with Anaconda with Windows 8 and 10.
+Windows 7 users can follow most of those instructions, but the place to access and change the environment variables is different. [This blog post has the directions to set environment variables for Windows 7](http://geekswithblogs.net/renso/archive/2009/10/21/how-to-set-the-windows-path-in-windows-7.aspx).
+
+
+The full Anaconda installation already installs all of the packages we will use.
 If you install the "miniconda" version, you'll also need to install the python packages separately.
 
 Open up Git Bash or your terminal and enter:
@@ -54,11 +60,9 @@ To check that all of the required packages are installed, open a terminal in the
 python3 scripts/check_packages.py
 ```
 
-Windows users _may_ need to enter ...
+Windows users _may_ need to enter this command instead ...
 
 ```bash
-Python3 scripts/check_packages.py
-# or
 Python scripts/check_packages.py
 ```
 
