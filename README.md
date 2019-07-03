@@ -11,6 +11,7 @@ Additional Python learning resources for your future learning can be found at:
 - <http://swcarpentry.github.io/python-novice-gapminder/>
 - <https://docs.python.org/3/tutorial/index.html>  # Suggest you read this piecemeal as you need it.
 - <https://jakevdp.github.io/PythonDataScienceHandbook/>  # More complex but a good free resource for working with data.
+- <https://pandas.pydata.org/pandas-docs/stable/>  # Pandas official documentation.
 
 
 ## Setup
